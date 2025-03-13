@@ -130,5 +130,3 @@ document.getElementById('inisialNama')!.innerHTML = inisialNama("John Doe");
 - **JavaScript lebih fleksibel**, tapi kurang aman karena tidak ada pemeriksaan tipe data.
 - **TypeScript lebih ketat**, mengurangi risiko error dengan mendefinisikan tipe data.
 - **Perbedaan utama** terlihat dalam deklarasi tipe parameter dan return type.
-
-Silakan gunakan TypeScript jika ingin **kode lebih aman**, dan JavaScript jika ingin lebih **cepat tanpa setup tambahan**. 🚀
